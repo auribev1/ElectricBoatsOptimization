@@ -1,0 +1,14 @@
+n:3
+v_min:10
+v_max:30
+v_step:5
+v_river:0.51
+Q:100
+Q_min:50
+Q_step:25
+E:130
+f:10
+s:0.01666
+T_min:3
+service_upp_lim:1.5
+service_lower_lim:0.5
