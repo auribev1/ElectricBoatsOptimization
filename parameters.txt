@@ -1,8 +1,9 @@
 n:3
+pos:-1
 v_min:10
 v_max:30
 v_step:5
-v_river:0.51
+v_river:1.836
 Q:100
 Q_min:50
 Q_step:25
